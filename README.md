@@ -11,6 +11,6 @@ an embed code) or URLs for photos.
 
 # List of Websites for Creative Commons Photos
 
-https://unsplash.com/
-https://www.pexels.com/
-https://www.freeimages.com/
+<p>https://unsplash.com/</p>
+<p>https://www.pexels.com/</p>
+<p>https://www.freeimages.com/</p>
