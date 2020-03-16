@@ -10,7 +10,7 @@ The css file used to style or make the webtext look pretty.
 1. Save all of your files in <b>one folder on your desktop</b>. Name the file LastName_Webtext. Example: Byrd_Webtext
 2. Click on "upload files"
 3. Drag the folder on your desktop into the upload file box
-4. Click "Commit File" at the bottom of the page
+4. Click "Commit Changes" at the bottom of the page
 
 # Note on Images and Videos
 To make the creation of your webtext easier, I suggest adding videos using YouTube URLS (each video has an option to copy and paste
