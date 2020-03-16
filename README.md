@@ -5,6 +5,13 @@ Because we won't be on campus, we will not be able to use the UMKC N drive to up
 Submit your project as a folder under the Code tab. Your folder will include any html files you used to create your project. 
 The css file used to style or make the webtext look pretty.
 
+# To Submit Files
+
+1. Save all of your files in <b>one folder on your desktop</b>. Name the file LastName_Webtext. Example: Byrd_Webtext
+2. Click on "upload files"
+3. Drag the folder on your desktop into the upload file box
+4. Click "Commit File" at the bottom of the page
+
 # Note on Images and Videos
 To make the creation of your webtext easier, I suggest adding videos using YouTube URLS (each video has an option to copy and paste
 an embed code) or URLs for photos. 
