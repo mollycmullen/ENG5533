@@ -1,5 +1,5 @@
 # ENG 5533: Upload Files for Webtext Project Here
-Students can upload files related to their projects in this repository. 
+Everyon can upload files related to their projects in this repository on or before <b>May 5</b>.
 Because we won't be on campus, we will not be able to use the UMKC N drive to upload files and websites. 
 
 Submit your project as a folder under the Code tab. Your folder will include any html files you used to create your project. 
