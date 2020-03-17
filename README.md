@@ -13,8 +13,13 @@ The css file used to style or make the webtext look pretty.
 4. Click "Commit Changes" at the bottom of the page
 
 # Note on Images and Videos
-To make the creation of your webtext easier, I suggest adding videos using YouTube URLS (each video has an option to copy and paste
-an embed code) or URLs for photos. 
+To make the creation of your webtext easier, I suggest adding videos using YouTube URLS (each video has an option to copy and paste an embed code) or URLs for photos rather than try to create them as files and upload them to your folder.
+
+Directions on how to embed videos and images and URLS can be found at W3 Schools. Here are the links to those tutorials:
+
+https://www.w3schools.com/html/html_images.asp
+
+https://www.w3schools.com/html/html_youtube.asp
 
 # List of Websites for Creative Commons Photos
 
