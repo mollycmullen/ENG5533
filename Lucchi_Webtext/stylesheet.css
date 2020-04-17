@@ -1,0 +1,104 @@
+body {
+    max-width: 1200px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+
+html, body {
+    font-family: 'PT Sans', sans-serif;
+}
+
+header {
+    background-color: blue;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+  #topnav {
+    background-color: black;
+    overflow: hidden;
+    display: flex; 
+    justify-content: center;
+  }
+
+  #topnav a {
+    color: white;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: inline-block;
+  }
+
+  #topnav a:hover {
+    background-color: rgb(221, 221, 221);
+    color: black;
+  }
+
+  #sidenav {
+    float: left;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    width: 20%;
+    background-color: #f1f1f1;
+    height:500px;
+  }
+
+  .hangingindent {
+    padding-left: 22px ;
+    text-indent: -22px ;
+  }
+
+  #research a {
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    display: block;
+}
+
+#research {
+    background-color:white;
+    overflow: hidden;
+  }
+
+  #research a:hover {
+    background-color:#4CAF50;
+    color: black;
+  }
+
+  #research a:hover {
+    background-color:#4CAF50;
+    color: black;
+  }
+
+  .intro {
+    flex: 75%;
+    overflow: auto;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.footer {
+    background-color: black;
+    position: relative;
+    height: 10px;
+    margin-top:10px;
+    clear: both;
+}
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
