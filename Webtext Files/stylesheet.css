@@ -1,0 +1,94 @@
+body {
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+
+html, body {
+    font-family: 'Playfair Display', sans-serif;
+}
+
+header {
+    background-color: violet;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+  #topnav {
+    background-color: black;
+    overflow: hidden;
+    display: flex; 
+    justify-content: center;
+  }
+
+  #topnav a {
+    color: white;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: inline-block;
+  }
+
+  #topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  #sidenav {
+    float: left;
+    position: sticky;
+    top: 0;
+    padding: 10px;
+    width: 15%;
+    background-color: #f1f1f1;
+    height: 300px;
+  }
+
+  #research a {
+    color: black;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    display: inline-block;
+}
+
+#research {
+    background-color:white;
+    overflow: hidden;
+  }
+
+  #research a:hover {
+    background-color:#4CAF50;
+    color: black;
+  }
+
+  #research a:hover {
+    background-color: dodgerblue;
+    color: black;
+  }
+
+  .intro {
+    flex: 75%;
+    overflow: auto;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#oprah {
+    width: 300px; 
+    float: left; 
+    padding-right: 20px;
+}
+
+.footer {
+    background-color: black;
+    position: relative;
+    height: 10px;
+    margin-top:10px;
+    clear: both;
+}
